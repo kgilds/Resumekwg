@@ -1,0 +1,14 @@
+---
+title: "KEVIN W. GILDS, MPA"
+job title: "Expertise in Collecting, Managing, and Analyzing Data"
+
+date: "May 24, 2017"
+output: 
+  html_document: 
+    keep_md: yes
+---
+-------------------      ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
