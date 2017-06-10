@@ -1,0 +1,91 @@
+---
+title: "Long Form Job Descriptions"
+output: github_document
+---
+
+
+# Veteran Services Contract Coordinator
+
+Provide the program oversight, management, and administrative support necessary to coordinate, implement, and administer the activities of the Veteran Directed Home and Community Based Services(VDHCBS) Program.
+
+Performs Budget Management/Expenditure Analysis: Provides management
+and oversight for the analysis and reconciliation of actual veteran enrollment,caseloads and expenditures, to the veteran’s authorized plan of care and budgetspending plan, in order to ensure the expenditures were approved, appropriateand in accordance with the Provider Agreement between SCC and the VA.
+
+Develops or manages the development of forms and procedures for
+programmatic monitoring, critique and evaluation activities as necessary.
+Prepares and manages the preparation of, and transmittal of all required programreports in accordance with stipulated deadlines.
+
+
+
+
+# Long Term Care Services Coordinator
+
+Supervision: 
+Co-coordinate activities of 11 staff members to respond to 600 referrals a month for long term care services and help consumers gain eligibility for long term care programs. Generate productivity reports to monitor staff performance and review with staff members to help them maintain or improve performance. 
+
+Facilitate meetings with staff to identify barriers to responding to referrals and to provide technical assistance to staff. Assist Long Term Care Services Manager identify training issues and ways to improve unit. 
+
+Information Technology Skills
+Created Google Drive Spreadsheet to strategically assign and monitor response times to referrals. Designed this spreadsheet with data validation to ensure data integrity and to assist in report development. Created forms to assist outside department schedule screenings for our staff resulting in increased response times to referrals. 
+
+Social Service: 
+Perform standardized screening of consumers seeking long term care services and add them to wait list for needed services. Assist consumers complete Medicaid Applications for Long Term Care Program for eligibility determination.
+
+
+
+# Girl Scouts of West Central Florida
+
+Duties Summary
+Data Management: 
+
+Managed the evaluation life cycle of 10 grant programs. Developed internal procedure for collecting and managing data collection. Created data evaluation plans to identify the best methods to evaluate the 10 or more grant funded programs. 
+
+Data Collection:
+
+Produced the data collection tools to meet the business objectives of the grant and developed data collection solutions by implementing internal data entry to cloud based solutions such as Survey Monkey and Qualtrics. Introduced new scanning software to process the thousands of surveys we processed every year more efficiently. 
+
+Data Analysis:
+
+Provided statistical analysis of data that had been collected using R and Microsoft Excel. Created online reports that provided management and staff instant access to data and information about the quality of their programs. 
+
+General: 
+
+Trained staff regarding survey administration methods, outcomes and statistics. Served on two strategic planning committees that are charged with improving programming and communicating what Girl Scouts can do for girls and volunteers. 
+
+
+# Career Source Pinellas
+
+Duties Summary
+Recruitment:
+
+Successfully placed 48 young people in a subsidized employment program. Recruited 32 businesses to participate in a paid worker experience program for young people with barriers to employment--juvenile justice charges and income barriers. 
+
+Assessed the abilities and interests of candidates and matched candidates with potential employers and arranged interviews between employer and candidates. Coached candidates to identify and sell their strengths during their interviews. 
+
+Human Resources: 
+
+Developed training outlines that detailed job descriptions and job requirements in coordination with employers. Completed required new hire paperwork, and employee orientation
+
+Managed payroll duties for all employees in the program. Made site visits to provide job coaching and mediate concerns between employers and employees. Counseled young people on managing relationships with co-workers and supervisors to ensure job maintenance. 
+
+Report Writing:
+
+Generated reports detailing the progress toward project objectives and payroll projections through the end of the program. Documented the progress and challenges of candidates in their employment with case notes in the Employ Florida Marketplace data system
+
+
+Cby 25
+
+
+Data Management:
+
+Coordinated data evaluation meetings with department managers and staff to review data objectives and standardize data collection methods. 
+
+Created relational databases in Microsoft Access to efficiently manage program data. Maintained various databases to ensure data integrity and performance of databases. Developed queries to respond to data requests from management and staff, and placed database views on network drive to share data across departments. 
+
+Survey Administration: 
+
+Managed the assignment and tracking of the unique identifiers assigned for survey participants in Florida, wrote protocols and written directions for the local survey administration and provided technical assistance via email and telephone to participants having trouble completing surveys. As a result our program site was a yearly leader in survey response rate. 
+
+Data Analysis:
+
+Conducted both quantitative and qualitative data analysis on data collected from surveys, evaluations of workshops facilitated. Utilized Microsoft Excel to complete statistical analysis on data and created charts and data tables to enhance understanding of data. 
