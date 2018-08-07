@@ -6,14 +6,15 @@ output: github_document
 
 # Veteran Services Contract Coordinator
 
-Provide the program oversight, management, and administrative support necessary to coordinate, implement, and administer the activities of the Veteran Directed Home and Community Based Services(VDHCBS) Program.
+Provide program oversight and management to coordinate the activities of the Veteran Directed Home and Community Based Services(VDHCBS) Program.
 
 Performs Budget Management/Expenditure Analysis: Provides management
-and oversight for the analysis and reconciliation of actual veteran enrollment,caseloads and expenditures, to the veteran’s authorized plan of care and budgetspending plan, in order to ensure the expenditures were approved, appropriateand in accordance with the Provider Agreement between SCC and the VA.
+and oversight for the analysis and reconciliation of actual veteran enrollment, caseloads and expenditures, to the veteran’s authorized plan of care and budget spending plan
 
-Develops or manages the development of forms and procedures for
+Develops and manages the development of forms and procedures for
 programmatic monitoring, critique and evaluation activities as necessary.
-Prepares and manages the preparation of, and transmittal of all required program reports in accordance with stipulated deadlines.
+
+
 
 
 
