@@ -1,0 +1,154 @@
+---
+title: Kevin Gild's Resume"
+author: Kevin Gilds
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/custom_resume.css', 'css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+library(tidyverse)
+library(glue)
+
+# Set this to true to have links turned into footnotes at the end of the document
+PDF_EXPORT <- FALSE
+
+# Holds all the links that were inserted for placement at the end
+links <- c()
+
+source('parsing_functions.R') # Functions for building sections from CSV data
+source('common_variables.R')  # Small variables for non-csv data such as intro text
+
+# First let's get the data, filtering to only the items tagged as
+# Resume items
+position_data <- read_csv('positions.csv') %>% 
+  filter(in_resume) %>% 
+  mutate(
+    # Build some custom sections by collapsing others
+    section = case_when(
+      section %in% c('research_positions', 'industry_positions') ~ 'positions', 
+      section %in% c('data_science_writings', 'by_me_press') ~ 'writings',
+      TRUE ~ section
+    )
+  ) 
+
+```
+
+
+Aside
+================================================================================
+
+
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+
+
+- <i class="fa fa-envelope"></i> kevingilds@gmail.com
+- <i class="fa fa-link"></i> [kgilds](http://kgilds@rbind.io)
+- <i class="fa fa-phone"></i> (863) 399-4363
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+Data Management:
+
+- _R_
+- _SQL_
+
+MS Office Suite:
+
+- _Access_
+- _Excel_
+- _Word_
+- _PowerPoint_
+
+
+
+
+
+Projects {#applications}
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+[Mapped Florida Absences](https://kgilds.rbind.io/project/mapped/)
+
+
+More info {#more-info}
+--------------------------------------------------------------------------------
+
+Boards
+
+- _Civil Service Board Lakeland_
+Chair (2019-Present)
+Member(2016-Present)
+
+- _Transportation Disadvantaged Board_ 
+Polk County
+
+Toastmasters
+
+- _Toastmaster of the Year Award_ 
+
+Lakeland Club-2014
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
+
+
+Last updated on `r Sys.Date()`.
+
+
+
+
+Main
+================================================================================
+
+Kevin Gilds {#title}
+--------------------------------------------------------------------------------
+
+```{r}
+cat(sanitize_links(intro_text))
+```
+
+Selected Positions {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('positions')
+```
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('education')
+```
+
+
+
+
+

@@ -1,0 +1,151 @@
+---
+title: "Kevin Gild's resume"
+author: Kevin Gilds
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+
+- <i class="fa fa-twitter"></i> [kevin_gilds](https:://twitter.com/kevin_gilds)
+- <i class="fa fa-github"></i> [github.com/kgilds](https://github.com/kgilds)
+- <i class="fa fa-phone"></i> 863-399-4363
+- <i class="fa fa-linkedin"></i> [kevingilds](https://linkedin.com/in/kevingilds)
+- <i class="fa fa-envelope"></i> kevingilds@gmail.com
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+
+- Skilled in R, Spreadsheets, SQL, Git, & Nonprofit Management
+
+
+Applications/Projects {#applications}
+-------------------------------------------------------------------------------
+
+[Website](https://kgilds.rbind.io/)
+
+[Florida School Absences](https://tidydatabykwg57.shinyapps.io/flabsences/)
+
+
+[Mapped Florida Absences](https://kgilds.rbind.io/project/mapped/)
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Kevin Gilds {#title}
+--------------------------------------------------------------------------------
+
+### Expertise in Collecting, Managing, & Analyzing Data
+
+
+  
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Program Evaluation Consultant
+
+Independent Consultant
+
+Lakeland, FL
+
+2013-
+
+
+
+**Created R package to manage survey and academic data for the Get REAL! statewide Girl Scout  mentoring program:** resulting in a work process that is automated and reproducible.
+
+
+
+
+
+**Created R package and Shiny Dashboard Application to manage data for Girl Scouts of West Central Florida:** resulting in workflow that allows their staff to utilize data to drive outcomes. 
+
+
+
+### Veteran Services Contract Manager
+
+Senior Connection Center
+
+Tampa, FL
+
+2016 - 
+
+
+
+**Identified data sources and requirements to automate billing process and collaborated with MIS to implement**: resulting in saving 20 hours of data entry and improving efficiency of billing process.   
+
+
+**Manage program databases and identify needed data to make more effective reports and queries:** resulting in automated reports for management and partners.
+
+
+
+### Long Term Care Services Coordinator
+
+Senior Connection Center
+
+Tampa, FL
+
+2013-2016
+
+**Developed best practices to sanitize data and merge spreadsheets using the Vlookup Function:** resulting in increased efficiency in meeting performance measures and helping consumers get services faster.
+
+
+**Led team in managing the process of helping seniors obtain eligibility for Long Term Care Services:** assigned workloads, set milestones, and monitored progress of monthly releases, resulting in achieving performance measures every month over 2 years.
+
+
+**Created videos and written documentation to teach and document technical processes to manage data and workflow:** resulting in delegations of tasks and staff development.
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of South Florida
+
+Masters of Public Administration
+
+Tampa, FL
+
+2008
+
+Capstone: Cash vs. government service: A comparative analysis of aftercare services for former foster care youth. 
+
+### University of Northern Iowa
+
+B.A. Sociology
+
+Cedar Falls, IA
+
+1999
+
+
+
+
+
+
